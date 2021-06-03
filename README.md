@@ -18,7 +18,7 @@ across networks and to other devices in the course of doing businesses, and cybe
 security describes the discipline dedicated to protecting that information and the 
 systems used to process or store it.
 
-<b>Triple DES</b>
+<b>Triple DES</b><br/>
 Triple Data Encryption Standard (DES) is a type of computerized cryptography 
 where block cipher algorithms are applied three times to each data block. The key 
 size is increased in Triple DES to ensure additional security through encryption 
