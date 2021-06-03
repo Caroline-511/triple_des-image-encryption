@@ -16,4 +16,11 @@ computers and other devices. A significant portion of that data can be sensitive
 information, which needs to be protected. Organizations transmit sensitive data 
 across networks and to other devices in the course of doing businesses, and cyber 
 security describes the discipline dedicated to protecting that information and the 
-systems used to process or store it
+systems used to process or store it.
+
+<b>Triple DES</b>
+Triple Data Encryption Standard (DES) is a type of computerized cryptography 
+where block cipher algorithms are applied three times to each data block. The key 
+size is increased in Triple DES to ensure additional security through encryption 
+capabilities. Each block contains 64 bits of data. Three keys are referred to as 
+bundle keys with 56 bits per key.
