@@ -24,3 +24,9 @@ where block cipher algorithms are applied three times to each data block. The ke
 size is increased in Triple DES to ensure additional security through encryption 
 capabilities. Each block contains 64 bits of data. Three keys are referred to as 
 bundle keys with 56 bits per key.
+
+<b>Propsed Architecture</b><br/>
+![architecture](https://user-images.githubusercontent.com/62279370/120650478-76615f80-c49b-11eb-975b-685bc9903a68.PNG)
+
+<b>Workflow of the algorithm</b><br/>
+![Screenshot (17)](https://user-images.githubusercontent.com/62279370/120650758-bcb6be80-c49b-11eb-8df9-6eadd03dd930.png)
